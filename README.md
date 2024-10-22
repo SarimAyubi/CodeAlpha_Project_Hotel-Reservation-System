@@ -1,1 +1,1 @@
-# CodeAlpha_Project_Hotel-Reservation-System
+This Java hotel reservation system allows users to search for available rooms by type, make reservations, and view booking details. It consists of core classes: Room, Reservation, and Hotel. Users can add rooms, check availability, and book them. The program uses a simple console interface for interaction, and room availability is managed by checking the room status during reservations.
